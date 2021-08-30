@@ -1,7 +1,7 @@
 "use strict";
 // Basic Types-------------------
 Object.defineProperty(exports, "__esModule", { value: true });
-const name = 'Amir Kakavand';
+const name = 'Hossein Heydari';
 const age = 22;
 const isMarried = false;
 let someVariable;
